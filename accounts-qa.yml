@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
-    name: "Gowtham - QA Manager"
+    name: "Gowtham GG - QA Manager"
     email: "{cipher}d19188e54447244b8913335a590b8dad438142dcd20be70e6e64d09a8e5e67af4755cfc20c672e105879b9ee467789a5"
   onCallSupport:
     - (888) 555-0001
