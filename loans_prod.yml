@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Alex Carter - Prod Manager"
+    email: "alex@eazybank.com"
+  onCallSupport:
+    - (777) 555-0001
+    - (777) 555-0002
