@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Quality Assurance 12 APIs"
+  message: "Welcome to EazyBank accounts related Quality Assurance 123 APIs"
   contactDetails:
     name: "Gowtham GR - QA Manager"
     email: "{cipher}d19188e54447244b8913335a590b8dad438142dcd20be70e6e64d09a8e5e67af4755cfc20c672e105879b9ee467789a5"
